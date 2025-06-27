@@ -43,3 +43,13 @@ Este comando se encargará de compilar los estilos cada vez que uses clases de T
 Ya tienes todo listo para empezar. Explora los archivos, experimenta con el código y diviértete aprendiendo. 🎉
 
 Si tienes dudas, no dudes en preguntar. ¡Éxito en tu proyecto! 💪
+
+## 6 **Mejoras adicionales realizadas por @StevenNunez** 👀
+
+- **Filtro por Super Host**:
+  - Aguegue un filtro para buscar por Super Host.
+- **Filtro por calificación**:
+  - Aguegue un filtro para buscar por calificaión de estrellas.
+- **Footer**:
+  - Mencioné el texto de copyright.
+---
